@@ -490,12 +490,18 @@ button:focus {
       left: 3%; }
   .hero-area .contents {
     padding: 220px 0; }
-    .hero-area .contents h2 {
+    .hero-area .contents .head-title {
       color: #fff;
-      font-size: 38px;
+      font-size: 40px;
       font-weight: 600;
       line-height: 60px;
       margin-bottom: 20px; }
+      .head-title2 {
+        color: #c08dec;
+        font-size: 38px;
+        font-weight: 600;
+        line-height: 47.5px;
+        margin-bottom: 20px; }
     .hero-area .contents p {
       color: #fff;
       font-size: 18px;
@@ -580,7 +586,7 @@ button:focus {
   #business-plan .business-item-info {
     margin-top: 60px; }
     #business-plan .business-item-info h3 {
-      font-size: 35px;
+      font-size: 30px;
       font-weight: 600;
       margin-bottom: 25px; }
     #business-plan .business-item-info p {
@@ -771,7 +777,7 @@ button:focus {
   #showcase .showcase-slider .owl-controls .owl-page.active span, #showcase .showcase-slider .owl-controls.clickable .owl-page:hover span {
     filter: Alpha(Opacity=100);
     opacity: 1;
-    background: #3ecf8e; }
+    background: #9c6bca; }
   #showcase .showcase-slider .owl-controls .owl-page span {
     display: block;
     width: 12px;
@@ -782,7 +788,7 @@ button:focus {
     -webkit-border-radius: 20px;
     -moz-border-radius: 20px;
     border-radius: 20px;
-    background: #3ecf8e; }
+    background: #9c6bca; }
   #showcase .showcase-slider .owl-controls .active span {
     width: 15px;
     height: 15px; }
@@ -875,7 +881,7 @@ button:focus {
       color: #5e629c;
       font-style: italic; }
     #testimonial #client-testimonial .owl-controls .owl-buttons div.owl-prev {
-      color: #3ecf8e;
+      color: #9c6bca;
       display: inline-block;
       zoom: 1;
       *display: inline;
@@ -962,7 +968,7 @@ button:focus {
     transition: all 200ms;
     opacity: 0.5; }
   #testimonial .video-play-button:hover:after {
-    background-color: #28ca81; }
+    background-color: #9c6bca; }
   #testimonial .video-play-button:hover span {
     border-left: 22px solid #fff;
     border-top: 14px solid transparent;
@@ -974,7 +980,7 @@ button:focus {
     z-index: 3;
     width: 0;
     height: 0;
-    border-left: 22px solid #3ecf8e;
+    border-left: 22px solid #9c6bca;
     border-top: 14px solid transparent;
     border-bottom: 14px solid transparent;
     border-radius: 2px;
@@ -1434,7 +1440,7 @@ button:focus {
       height: 38px;
       color: #fff;
       top: 0;
-      background: #3ecf8e;
+      background: #9c6bca;
       display: block;
       padding: 9px 20px;
       font-size: 18px;
@@ -1446,7 +1452,7 @@ button:focus {
     margin-bottom: 30px; }
   #footer-Content ul.menu li a {
     color: #e2e2e2;
-    font-size: 16px;
+    font-size: 15px;
     font-weight: 400;
     line-height: 32px;
     -webkit-transition: all 300ms;
