@@ -46,6 +46,10 @@ h1, h2, h3, h4, h5 {
   font-weight: 400;
   color: #151948; }
 
+.footerrr {
+  right: 50px;
+  size: 100px;
+}
 
 ul {
   margin: 0;
@@ -361,6 +365,13 @@ button:focus {
   -moz-transition: all 0.3s ease-in-out;
   -o-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out; }
+
+.scroll-up {
+  -webkit-transition: all 0.3s ease-in-out;
+  -moz-transition: all 0.3s ease-in-out;
+  -o-transition: all 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out;
+}
 
 /* ==========================================================================
    Navbar Style
@@ -1403,7 +1414,10 @@ button:focus {
   padding-top: 130px;
   background: #180e29; }
   #footer-Content .footer-logo img {
-    padding-top: 70px; }
+    padding-top: 5px;
+    position: relative;
+    left: 500px;
+    }
   #footer-Content .form-control:focus {
     outline: none;
     box-shadow: none;

@@ -1,0 +1,21 @@
+              <div class="col-lg-3 col-md-6 col-sm-6 col-xs-6 col-mb-12">
+                <div class="widget">
+                  <h3 class="block-title">Subscribe Now</h3>
+                  <p>Leave Your Email Below to Receive Special Offers From Companies We Work With </p>
+                  <div class="subscribe-area">
+                    <input type="email" class="form-control" placeholder="Enter Email">
+                    <span><i class="lni-chevron-right"></i></span>
+                  </div>
+                  <p>You Can Unsubscribe At Any Time</p>
+                </div>
+              </div>
+
+              <div class="col-lg-2 col-md-6 col-sm-6 col-xs-6 col-mb-12">
+                <div class="widget">
+                  <h3 class="block-title">Contact Infos</h3>
+                  <ul class="menu">
+                    <li><a>-Email Address: yboubekri@yb-ge.com</a></li>
+                    <li><a>-Phone Number: +15143862116</a></li>
+                  </ul>
+                </div>
+              </div>
